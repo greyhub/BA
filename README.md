@@ -12,6 +12,6 @@ First, you can use a dataset from [Kaggle](https://www.kaggle.com/c/walmart-recr
 
 > \[Vietnamese\] Dự báo doanh số bán hàng của siêu thị trong mùa lễ hội
 
-> Một siêu thị có nhiều bộ phận khác nhau và cần phải dự trữ các mặt hàng có nhu cầu ở mỗi bộ phận này. Tuy nhiên, trong khi nhập kho phải đảm bảo không để tồn đọng quá nhiều khiến không thể vận chuyển hết được. Do đó, bạn có thể dự đoán tác động của mùa lễ hội đến doanh số bán hàng của các bộ phận trong siêu thị.
+> Một siêu thị có nhiều bộ phận và phải dự trữ các mặt hàng ở mỗi bộ phận. Tuy nhiên, phải đảm bảo không để tồn đọng quá nhiều. Do đó nên dự đoán tác động của mùa lễ hội đến doanh số bán hàng của các bộ phận.
 
 > Đầu tiên, bạn có thể sử dụng tập dữ liệu từ [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) và chọn một ngày lễ nhất định, giả sử như Giáng sinh. Sau đó, kiểm tra xem trong thời điểm Giáng sinh, cửa hàng có doanh số bán hàng cao nhất hay không và bộ phận nào cần dự trữ nhiều mặt hàng hơn để đáp ứng nhu cầu tăng cao.
